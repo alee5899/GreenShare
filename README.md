@@ -22,8 +22,6 @@
 | 📱 App       | React Native               | [greenShareApp](https://github.com/PangJin97/greenShareApp) |
 | 🌐 Frontend  | React                      | [greenShareFront](https://github.com/PangJin97/greenShareFront) |
 | 🖥️ Backend   | Java/Spring + MariaDB       | [greenShareBack](https://github.com/PangJin97/greenShareBack) |
-| 🤖 IoT 제어  | Python (Raspberry Pi)       | [greenSharePython](https://github.com/PangJin97/greenSharePython) |
-
 ---
 
 ## 🌿 주요 기능  
@@ -38,23 +36,16 @@
 
 ![image](https://github.com/user-attachments/assets/ec0100eb-cbb8-4a7e-a18c-c8fd0a76cef6)
  
-![image](https://github.com/user-attachments/assets/860a34de-fed0-4728-a6a4-5b6d0fcce927)
-
-![image](https://github.com/user-attachments/assets/5d9434f4-204d-4032-8325-987b0fb6ae56)
-
-![image](https://github.com/user-attachments/assets/9ae9cec4-6f1b-4670-897e-81292b93a427)
 
 ---
 
-## 🎥 웹 & 앱 시연 영상  
-
-### 💻 웹 시연  
+##💻 프로젝트 결과 
 
 | 기능 설명 | 미리보기 |
 |-----------|-----------|
-| **실시간 채팅** | [![웹 채팅 기능 시연](https://img.youtube.com/vi/Wdz61vy8E1I/0.jpg)](https://www.youtube.com/watch?v=Wdz61vy8E1I) |
-| 게시글 등록 (에디터) | ![게시글 등록](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/에디터를%20사용한%20게시글%20등록.gif) |
-| 좋아요 & 팔로우 | ![좋아요, 팔로우](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/팔로우,좋아요.gif) |
+| **공지사항 게시판 조회** | [![웹 채팅 기능 시연](https://img.youtube.com/vi/Wdz61vy8E1I/0.jpg)](https://www.youtube.com/watch?v=Wdz61vy8E1I) |
+| 공지사항 게시판 상세조회/수정/삭제 | ![게시글 등록](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/에디터를%20사용한%20게시글%20등록.gif) |
+| 공지사항 게시판 댓글 CRUD  | ![좋아요, 팔로우](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/팔로우,좋아요.gif) |
 | 페이지네이션 | ![페이지네이션](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/페이지네이션.gif) |
 | 댓글 등록/삭제/상세 | ![댓글 기능](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/댓글%20삭제%20등록%20상세보기.gif) |
 | 작물 리스트 | ![작물 리스트](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/작물리스트.gif) |
