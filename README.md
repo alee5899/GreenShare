@@ -43,9 +43,9 @@
 
 | 기능 설명 | 미리보기 |
 |-----------|-----------|
-| **공지사항 게시판 조회** | ![Image](https://github.com/user-attachments/assets/071c4eb1-f318-46cb-8a3c-fac7a713a1b0) |
-| 공지사항 게시판 
-상세조회/수정/삭제 | ![게시글 등록](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/에디터를%20사용한%20게시글%20등록.gif) |
+| **공지사항 게시판 
+조회** | ![Image](https://github.com/user-attachments/assets/071c4eb1-f318-46cb-8a3c-fac7a713a1b0) |
+| 공지사항 게시판 상세조회/수정/삭제 | ![게시글 등록](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/에디터를%20사용한%20게시글%20등록.gif) |
 | 공지사항 게시판 댓글 CRUD  | ![좋아요, 팔로우](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/팔로우,좋아요.gif) |
 | 페이지네이션 | ![페이지네이션](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/페이지네이션.gif) |
 | 댓글 등록/삭제/상세 | ![댓글 기능](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/댓글%20삭제%20등록%20상세보기.gif) |
