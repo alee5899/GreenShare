@@ -1,4 +1,4 @@
-# 🌱 GreenShare 프로젝트  
+ # 🌱 GreenShare 프로젝트  
 **IoT 기기 연동 & 웹·앱 식물 커뮤니티 풀스택 개발**  
 *(Python, Java/Spring, React, React Native)*  
 
@@ -43,7 +43,7 @@
 
 | 기능 설명 | 미리보기 |
 |-----------|-----------|
-| **공지사항 게시판 조회** | [![웹 채팅 기능 시연](https://img.youtube.com/vi/Wdz61vy8E1I/0.jpg)](https://www.youtube.com/watch?v=Wdz61vy8E1I) |
+| **공지사항 게시판 조회** ![Image](https://github.com/user-attachments/assets/071c4eb1-f318-46cb-8a3c-fac7a713a1b0)
 | 공지사항 게시판 상세조회/수정/삭제 | ![게시글 등록](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/에디터를%20사용한%20게시글%20등록.gif) |
 | 공지사항 게시판 댓글 CRUD  | ![좋아요, 팔로우](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/팔로우,좋아요.gif) |
 | 페이지네이션 | ![페이지네이션](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/페이지네이션.gif) |
