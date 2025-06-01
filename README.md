@@ -9,7 +9,6 @@
 안녕하세요! GreenShare 프로젝트는 **스마트한 식물 관리와 커뮤니티를 위한 IoT 기반 풀스택 플랫폼**입니다.  
 **식물 재배부터 소통까지** 모두 가능한 서비스를 구현했습니다.  
 
-- 🌡️ **IoT 기기 자동제어 시스템** (Python, Raspberry Pi)
 - 🖥️ **API 서버** (Java/Spring + MariaDB)
 - 🌐 **웹 커뮤니티** (React)
 - 📱 **모바일 앱** (React Native)  
