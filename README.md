@@ -44,7 +44,7 @@
 | 기능 설명 | 미리보기 |
 |-----------|-----------|
 | **공지사항  게시판 조회/권한처리** | ![Image](https://github.com/user-attachments/assets/071c4eb1-f318-46cb-8a3c-fac7a713a1b0) |
-| 공지사항 게시판 댓글 CRUD/권한처리  |![Image](https://github.com/user-attachments/assets/7093d580-1cdb-4a85-b376-0603e147c080) |
+| 공지사항 게시판 댓글 CRUD/관리에대한권한처리  |![Image](https://github.com/user-attachments/assets/7093d580-1cdb-4a85-b376-0603e147c080) |
 | QNA 게시판 조회 | ![Image](https://github.com/user-attachments/assets/e3ea5fd1-deee-46de-b678-461a9c7f27f1) |
 | QNA 게시판 상세조회 | ![Image](https://github.com/user-attachments/assets/605b1c2e-b4a9-44d7-8ed0-7e61c11a70b4) |
  | QNA 댓글 등록/삭제/상세/권한처리|![Image](https://github.com/user-attachments/assets/a25ad99b-16d3-4a62-bd3c-bf9f6fa8cabc) |
