@@ -56,9 +56,9 @@
 
 | 기능 | GIF |
 |-------|------|
-| 🌿 인기글 목록 | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/인기글%20목록.gif" width="300"/> |
-| 💬 댓글 등록/삭제 | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/식물이야기%20댓글%20등록%20삭제.gif" width="300"/> |
-| 🌱 작물 리스트 & 대시보드 | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/작물리스트와%20대쉬보드.gif" width="300"/> |
+| 🌿 이미지url추출기능 | ![Image](https://github.com/user-attachments/assets/e8662926-95b6-43a4-bc4c-9ebd0e58f7c8)|
+| 💬 팔로우 기능 |![Image](https://github.com/user-attachments/assets/5687d66d-249e-4496-911a-6c9bf01d9949) |
+| 🌱 좋아요 기능| ![Image](https://github.com/user-attachments/assets/4a89ddf5-62f0-45cc-a2a1-a9a0197fef08) |
 
 ---
 
